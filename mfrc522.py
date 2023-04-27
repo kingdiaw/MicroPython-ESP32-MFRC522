@@ -1,3 +1,5 @@
+#Credit to: https://microcontrollerslab.com/raspberry-pi-pico-rfid-rc522-micropython/
+
 from machine import Pin, SPI
 from os import uname
 
